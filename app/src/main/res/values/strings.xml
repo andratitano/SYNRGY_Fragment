@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SYNRGY_Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="txt_fragment_a">Text Fragment A</string>
+    <string name="txt_fragment_b">Text Fragment B</string>
+    <string name="txt_fragment_c">Text Fragment C</string>
+</resources>
